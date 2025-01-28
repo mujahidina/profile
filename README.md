@@ -12,7 +12,9 @@ Hi! 👋 I'm a passionate Fullstack Developer skilled in React.js, Tailwind CSS,
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mujahidina&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidina&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mujahidina&theme=radical&no-frame=false&no-bg=true&margin-w=4)
